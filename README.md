@@ -23,6 +23,7 @@ Generate Insights
 Summarizes motivations, purchase intent, and reasoning for each persona.
 
 **Author**
+
 Calvin Chang 
 Columbia University - Computer Science
 
